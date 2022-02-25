@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KittyXO
-- 👀 I’m interested in programing and developing web and mobile apps
+- 👋 Hi, I’m Camile aka @KittyXO
+- 👀 I’m interested in developing web and mobile apps
 - 💞️ I’m looking to collaborate on projects with the community
 
 <!---
